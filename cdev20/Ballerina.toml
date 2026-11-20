@@ -1,0 +1,9 @@
+[package]
+org = "aitest"
+name = "cdev20"
+version = "0.1.0"
+distribution = "2201.14.2"
+title = "cdev20"
+
+[build-options]
+sticky = true
